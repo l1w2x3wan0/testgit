@@ -33,3 +33,5 @@ class A
 function c(){
 	b();
 }
+
+//ssh-keygen -t rsa -C "2265508387@qq.com"

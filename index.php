@@ -20,3 +20,11 @@ phpinfo();
 function b(){
 	echo 'u a b';
 }
+
+class A
+{
+	public function ec()
+	{
+		echo 'die';
+	}
+}

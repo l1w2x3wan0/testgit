@@ -28,3 +28,5 @@ class A
 		echo 'die';
 	}
 }
+
+//yii 

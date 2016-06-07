@@ -15,3 +15,8 @@ echo date('Y-m-d H:i:s', $i_4);
 
 
 phpinfo();
+
+
+function b(){
+	echo 'u a b';
+}

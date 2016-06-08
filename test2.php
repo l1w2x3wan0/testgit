@@ -69,3 +69,4 @@ $q=parse_url_decode($key,$_POST['q']);
 print_r($q);
 
 //home
+//git push -u origin master

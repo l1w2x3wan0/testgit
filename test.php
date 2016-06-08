@@ -67,3 +67,5 @@ $_POST['q'] = urldecode("5KB20D0%2BkmI14oqFB0ywylIcaxkJfdCHMrYjdhrmf4afeRh3JXECp
 $_POST['q'] = urldecode('5KB20D0%2BkmI14oqFB0ywylIcaxkJfdCHMrYjdhrmf4afeRh3JXECp8cPo38jykye3%2B7HVwBFXjQ%2BturdyzhNVdldSejwxXUV');
 $q=parse_url_decode($key,$_POST['q']);
 print_r($q);
+
+// git add -A

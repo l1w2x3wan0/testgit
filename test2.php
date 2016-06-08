@@ -70,3 +70,4 @@ print_r($q);
 
 //home
 //git push -u origin master
+//git add -A
